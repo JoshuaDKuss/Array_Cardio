@@ -52,7 +52,7 @@ console.log('js');
       //   return total + (inventor.passed - inventor.year);
       // }, 0);
 
-      console.log(totalYears);
+      // console.log(totalYears);
 
       // 5. Sort the inventors by years lived
       // const oldest = inventors.sort(function(a, b) {
